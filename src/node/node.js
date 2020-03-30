@@ -1,4 +1,5 @@
 import { vec, Rect } from "../math"
+import { HitEvent } from "../scene"
 
 
 export class Stroke {
